@@ -2,7 +2,7 @@
 
 This rails app will utilize a weather api to update trail conditions based on past precipitation. Users will be able to manually comment on conditions, and admin users would be able to override the condition guesser.
 
-A user would visit the site and see conditions and recent comments without being logged in.[[[[]]]]
+A user would visit the site and see conditions and recent comments without being logged in.
 
 A user could visit the website and checkout out a
 
@@ -30,7 +30,6 @@ location_id
 
 Trails
 name
-
 start_location_id
 end_location_id
 creator_id
