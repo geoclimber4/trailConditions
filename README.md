@@ -30,6 +30,7 @@ location_id
 
 Trails
 name
+
 start_location_id
 end_location_id
 creator_id
@@ -44,9 +45,6 @@ park_id
 precipitation
 temperature
 Datetime
-
-
-
 
 Things you may want to cover:
 
@@ -65,5 +63,3 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* ...
